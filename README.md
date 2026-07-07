@@ -26,6 +26,39 @@ Linux, and security fundamentals — hands-on, not just theory.
 - Built and shipped full websites for real clients and hackathon teams
 - Keeping a public roadmap of what I'm learning and why — see `cybersec-roadmap`
 
+<br>
+
+## Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/kairos-ix/cybersec-roadmap">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=cybersec-roadmap&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=cybersec-roadmap&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="cybersec-roadmap" src="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=cybersec-roadmap&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+</picture>
+</a>
+<a href="https://github.com/kairos-ix/zero-to-appsec">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="zero-to-appsec" src="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+</picture>
+</a>
+
+<a href="https://github.com/kairos-ix/wifi-dos-attack">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="wifi-dos-attack" src="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+</picture>
+</a>
+
+</p>
+
+<br>
+
 ## Currently
 
 Working through Phase 1 of my roadmap: networking, Linux, Python, security
@@ -35,15 +68,22 @@ fundamentals.
 
 ## Stack
 
+**Core Web**
+
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E8E8E8" alt="HTML5" />
 <img src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=E8E8E8" alt="CSS3" />
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=E8E8E8" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=E8E8E8" alt="Python" />
 <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=E8E8E8" alt="React" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=E8E8E8" alt="Tailwind" />
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=E8E8E8" alt="Node" />
 <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=E8E8E8" alt="MongoDB" />
+</p>
+
+**Security & Systems**
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=E8E8E8" alt="Python" />
 <img src="https://img.shields.io/badge/-Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=E8E8E8" alt="Kali Linux" />
 <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=E8E8E8" alt="Git" />
 </p>
@@ -53,8 +93,19 @@ fundamentals.
 ## GitHub Stats
 
 <p align="center">
-<img src="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8E8E8&text_color=B0B0B0&icon_color=888888" alt="GitHub Stats" height="165" />
-<img src="https://kairos-ix-readme.vercel.app/api/top-langs/?username=kairos-ix&layout=compact&hide_border=true&bg_color=00000000&title_color=E8E8E8&text_color=B0B0B0" alt="Top Languages" height="165" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161" />
+  <img alt="GitHub Stats" src="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78" height="165" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/top-langs/?username=kairos-ix&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api/top-langs/?username=kairos-ix&layout=compact&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C" />
+  <img alt="Top Languages" src="https://kairos-ix-readme.vercel.app/api/top-langs/?username=kairos-ix&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0" height="165" />
+</picture>
+
 </p>
 
 <br>
@@ -64,7 +115,7 @@ fundamentals.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kairos-ix/kairos-ix/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kairos-ix/kairos-ix/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/kairos-ix/kairos-ix/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/kairos-ix/kairos-ix/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br><br>
