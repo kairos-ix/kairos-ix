@@ -18,13 +18,16 @@ Linux, and security fundamentals — hands-on, not just theory.
 
 ## What I've actually done so far
 
-- Practical labs: WiFi handshake capture and deauth (aircrack-ng), ARP poisoning /
-  MITM on Kali Linux — see `wifi-dos-attack`
+- Practical lab: WiFi handshake capture and deauth using aircrack-ng — see
+  <a href="https://github.com/kairos-ix/wifi-dos-attack" target="_blank" rel="noopener noreferrer"><code>wifi-dos-attack</code></a>
+- Practical lab: ARP poisoning / MITM and HTTP credential capture on Kali Linux —
+  see <a href="https://github.com/kairos-ix/mitm-attack-lab" target="_blank" rel="noopener noreferrer"><code>mitm-attack-lab</code></a>
 - Working through TryHackMe, PortSwigger, and DVWA
 - Lead developer for Team Kairos — built and submitted hackathon projects across
   fintech, civic-tech, and clinical data domains
 - Built and shipped full websites for real clients and hackathon teams
-- Keeping a public roadmap of what I'm learning and why — see `cybersec-roadmap`
+- Keeping a public roadmap of what I'm learning and why — see
+  <a href="https://github.com/kairos-ix/zero-to-appsec" target="_blank" rel="noopener noreferrer"><code>zero-to-appsec</code></a>
 
 <br>
 
@@ -32,26 +35,33 @@ Linux, and security fundamentals — hands-on, not just theory.
 
 <p align="center">
 
-<a href="https://github.com/kairos-ix/cybersec-roadmap">
+<a href="https://github.com/kairos-ix/zero-to-appsec" target="_blank" rel="noopener noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=cybersec-roadmap&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=cybersec-roadmap&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
-  <img alt="cybersec-roadmap" src="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=cybersec-roadmap&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="zero-to-appsec" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
 </picture>
 </a>
-<a href="https://github.com/kairos-ix/zero-to-appsec">
+<a href="https://github.com/kairos-ix/wifi-dos-attack" target="_blank" rel="noopener noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
-  <img alt="zero-to-appsec" src="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="wifi-dos-attack" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
 </picture>
 </a>
 
-<a href="https://github.com/kairos-ix/wifi-dos-attack">
+<a href="https://github.com/kairos-ix/mitm-attack-lab" target="_blank" rel="noopener noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
-  <img alt="wifi-dos-attack" src="https://kairos-ix-readme.vercel.app/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=mitm-attack-lab&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=mitm-attack-lab&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="mitm-attack-lab" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=mitm-attack-lab&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+</picture>
+</a>
+<a href="https://github.com/kairos-ix/vigil-civic" target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=vigil-civic&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=vigil-civic&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="vigil-civic" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=vigil-civic&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
 </picture>
 </a>
 
@@ -123,8 +133,8 @@ fundamentals.
 ## Connect
 
 <p align="center">
-<a href="https://kairos.sahilmauryadev.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=E8E8E8" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/sahil-maurya-525579260"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=E8E8E8" alt="LinkedIn" /></a>
+<a href="https://kairos.sahilmauryadev.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=E8E8E8" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/sahil-maurya-525579260" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=E8E8E8" alt="LinkedIn" /></a>
 </p>
 
 </div>
