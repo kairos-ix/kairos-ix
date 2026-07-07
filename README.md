@@ -53,8 +53,8 @@ fundamentals.
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8E8E8&text_color=B0B0B0&icon_color=888888" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairos-ix&layout=compact&hide_border=true&bg_color=00000000&title_color=E8E8E8&text_color=B0B0B0" alt="Top Languages" height="165" />
+<img src="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8E8E8&text_color=B0B0B0&icon_color=888888" alt="GitHub Stats" height="165" />
+<img src="https://kairos-ix-readme.vercel.app/api/top-langs/?username=kairos-ix&layout=compact&hide_border=true&bg_color=00000000&title_color=E8E8E8&text_color=B0B0B0" alt="Top Languages" height="165" />
 </p>
 
 <br>
