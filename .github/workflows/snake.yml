@@ -11,17 +11,23 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kairos-ix
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=e8e8e8&color_dots=1a1a1a,333333,4d4d4d,666666,808080
-            dist/github-contribution-grid-snake-dark.svg?color_snake=e8e8e8&color_dots=1a1a1a,333333,4d4d4d,666666,808080
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#288EBD&color_dots=#1A1A1A,#3C3C3C,#616161,#7B7A78,#B1B0B0
+            dist/github-contribution-grid-snake.svg?color_snake=#288EBD&color_dots=#B1B0B0,#7B7A78,#616161,#3C3C3C,#1A1A1A
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
