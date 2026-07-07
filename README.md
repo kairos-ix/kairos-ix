@@ -134,7 +134,7 @@ fundamentals.
 
 <p align="center">
 <a href="https://kairos.sahilmauryadev.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=E8E8E8" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/sahil-maurya-525579260" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=E8E8E8" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sahil-maurya-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=E8E8E8" alt="LinkedIn" /></a>
 </p>
 
 </div>
