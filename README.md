@@ -105,15 +105,9 @@ fundamentals.
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&commits_year=2026&count_private=true&v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&commits_year=2026&count_private=true&v=1" />
-  <img alt="GitHub Stats" src="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&commits_year=2026&count_private=true&v=1" height="165" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&include_all_commits=true&count_private=true&v=1" />
   <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&include_all_commits=true&count_private=true&v=1" />
-  <img alt="Lifetime GitHub Stats" src="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&include_all_commits=true&count_private=true&v=1" height="165" />
+  <img alt="GitHub Stats" src="https://kairos-ix-readme.vercel.app/api?username=kairos-ix&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&include_all_commits=true&count_private=true&v=1" height="165" />
 </picture>
 
 <picture>
