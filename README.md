@@ -42,6 +42,13 @@ Linux, and security fundamentals — hands-on, not just theory.
   <img alt="zero-to-appsec" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=zero-to-appsec&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
 </picture>
 </a>
+<a href="https://github.com/kairos-ix/cyber-notes" target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=cyber-notes&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=cyber-notes&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
+  <img alt="vigil-civic" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=cyber-notes&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
+</picture>
+</a>
 <a href="https://github.com/kairos-ix/wifi-dos-attack" target="_blank" rel="noopener noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=wifi-dos-attack&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
@@ -57,14 +64,6 @@ Linux, and security fundamentals — hands-on, not just theory.
   <img alt="mitm-attack-lab" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=mitm-attack-lab&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
 </picture>
 </a>
-<a href="https://github.com/kairos-ix/vigil-civic" target="_blank" rel="noopener noreferrer">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=vigil-civic&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=vigil-civic&bg_color=00000000&title_color=1A1A1A&text_color=3C3C3C&icon_color=616161&border_color=B1B0B0" />
-  <img alt="vigil-civic" src="https://kairos-ix-readme.vercel.app/api/pin/?username=kairos-ix&repo=vigil-civic&bg_color=00000000&title_color=FFFFFF&text_color=B1B0B0&icon_color=7B7A78&border_color=3C3C3C" />
-</picture>
-</a>
-
 </p>
 
 <br>
